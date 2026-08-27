@@ -7,7 +7,7 @@ Download from releases: https://github.com/Elec0/tts-useragent/releases
 1. Install MelonLoader: https://melonwiki.xyz/#/?id=requirements
 2. Pick version `0.7.3`
 3. Once installed, navigate to your TabletopSimulator install location
-4. **IMPORTANT** If `version.dll` is present, rename it to `winhttp.dll`
+4. **IMPORTANT** In the `Tabletop Simulator/` folder, rename `version.dll` to `winhttp.dll`
    * If you don't: MelonLoader isn't going to load and you won't see the console pop up
 5. Put `TTS-UserAgentMod.dll` inside `Tabletop Simulator/Mods/`
 6. Run TTS
