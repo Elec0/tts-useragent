@@ -1,6 +1,8 @@
 # Tabletop Simulator Custom UserAgent
 Custom UserAgent for Tabletop SImulator
 
+Download from releases: https://github.com/Elec0/tts-useragent/releases
+
 # Installing
 1. Install MelonLoader: https://melonwiki.xyz/#/?id=requirements
 2. Pick version `0.7.3`
